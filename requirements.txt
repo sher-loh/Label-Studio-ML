@@ -1,0 +1,6 @@
+click
+label-studio-ml
+rq
+supervisor
+uwsgi
+google-cloud-storage
